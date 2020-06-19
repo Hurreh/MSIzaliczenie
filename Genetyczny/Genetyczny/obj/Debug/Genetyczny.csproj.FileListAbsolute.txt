@@ -1,0 +1,7 @@
+C:\Users\wpola\source\repos\Genetyczny\Genetyczny\bin\Debug\Genetyczny.exe.config
+C:\Users\wpola\source\repos\Genetyczny\Genetyczny\bin\Debug\Genetyczny.exe
+C:\Users\wpola\source\repos\Genetyczny\Genetyczny\bin\Debug\Genetyczny.pdb
+C:\Users\wpola\source\repos\Genetyczny\Genetyczny\obj\Debug\Genetyczny.csprojAssemblyReference.cache
+C:\Users\wpola\source\repos\Genetyczny\Genetyczny\obj\Debug\Genetyczny.csproj.CoreCompileInputs.cache
+C:\Users\wpola\source\repos\Genetyczny\Genetyczny\obj\Debug\Genetyczny.exe
+C:\Users\wpola\source\repos\Genetyczny\Genetyczny\obj\Debug\Genetyczny.pdb
